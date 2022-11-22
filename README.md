@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**xsu-git/xsu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im manolia 🖤.
 
-Here are some ideas to get you started:
+@@advanced programming student.@@
++ living in copenhagen, denmark.
+- 19 years old.
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
+```
+<br>
+<img src="https://komarev.com/ghpvc/?username=manolia&color=blueviolet&style=flat-square">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current projects
+<br>
+- [slit discord selfbot](https://github.com/manolia/Slit-Selfbot)
+- [file host & mail server](https://suicide.ooo)
+  
+<br>
+
+past projects
+<br>
+- external rust cheat
+- external osu cheat
